@@ -49,3 +49,4 @@ I næringslivet legges hovedvekten på lønnsomhet styring, eller en vurdering a
 
 Oppgave 10 – Payback og Internrente metoden
     • Redegjør for payback og internrente metoden.
+-----DETTE ER SLUTTEN--------------
