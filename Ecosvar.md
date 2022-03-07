@@ -1,6 +1,7 @@
 Oppgave 1 – Ledelse og økonomistyring i det offentlige
 Økonomisk styring har kommet mer i fokus de senere årene, og det kan i en viss grad henføres til en internasjonal utviklingstrend.
     • Redegjør for denne utviklingstrenden og noen modeller som oppstod som følge av dette .
+´´´
 Viktig å tenke på er sentrale utviklingstrekk. Begrepet New Public Management (NPM) eller Ny Offentlig Styring (NOS) benyttes som et samlebegrep for den utviklingen vi ser i økonomisk styring.
 Ut ifra en del av ideene innen NPM ifølge Klaussen og Stålberg (1998) om det offentlige sektoren, blir den preget av overføring av modeller fra det private næringsliv, større pvekt på konkurranse, større vekt på resultatmålinger, sterkere fokus på brukere, sterkere styring og mer vekt på ansvarsliggjøring.
 Fire modeller: 1. Krav om effektivitet, 2. Nedskjæring og desentraisering, 3. Kulturutvikling og 4. Serviceledelse
@@ -8,7 +9,7 @@ Modell 1:  krav om effektivitet er et forsøk på å overføre styringsprinsippe
 - Sterke økonomisk kontroll, sterkere hierarkisk kontroll, sterkere vekt på evaluering og standarder, sterkere vekt på brukerorientering, deregulering av arbeidsmarkedet, nye lønns- og kontraktbetingelser og sterkere makt til ledelsen og profesjonelle styrer.
 Modell 2: Nedskjæring og desentralisering reprensentrer en økende skepsis til stor byråkratiske organisasjoner. På grunn av at det har blitt et større behov for fleksible løsninger hvor virksomheten raskt kan tilpasse seg nye situasjoner har det blitt en trend mot mindre enheter. Her vil ansvaret for økonomisk og strategisk utvikling bli desentralisert. Kjennetegn:
 - Utvikling av kvasimarkeder: etablere interne markeder, Løsere ledelsekontrakter
-
+´´´
 Oppgave 2 – Økonomistyring noen sentrale dimensjoner
 Økonomistyring krever gjerne innsikt i ulike dimensjoner og det vil forekomme motspill, økonomistyringssystemer fungerer ikke etter hensikten og det kreves en tilpasning til virkeligheten som finnes i offentlig sektor.
     • Redegjør for hvilke styringsproblemer som relateres til økonomistyringssystemer!
