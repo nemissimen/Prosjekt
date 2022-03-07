@@ -1,6 +1,5 @@
-
-´´´ overskrifte
-sdfsdfsdf
-sdfsdfsdfs
-sdfsdfsdf
-´´´
+''' Kodeboks
+Jeg 
+vet
+ikke hva jeg gjør
+'''
